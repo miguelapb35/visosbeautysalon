@@ -1,0 +1,20 @@
+{
+  "name": "visos",
+  "version": "1.0.0",
+  "description": "Visos Beauty Salon",
+  "author": "Miguel Parra",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/bulma": "^1.2.6",
+    "nuxt": "^2.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
