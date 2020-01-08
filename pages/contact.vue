@@ -15,6 +15,7 @@
                         <div class="media">
                             <div class="media-content has-text-centered">
                                 <h1 class="title article-title">For Appointments</h1>
+                                <p class="has-text-centered">please call</p>
                                 <div class="container has-text-centered">                                    
                                     <h2 class="subtitle">303 693 3089</h2>
                                     <h2 class="subtitle">303 693 0422</h2>
@@ -101,6 +102,11 @@ background-size: cover;
 background-repeat: no-repeat;
 height: 500px;
 }
+.subtitle{
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
 .articles {
   margin: 5rem 0;
   margin-top: -200px;
@@ -128,7 +134,7 @@ height: 500px;
   margin-bottom: 1rem;
 }
 .media-content {
-  margin-top: 3rem;
+  margin-top: 1rem;
 }
 .article, .promo-block {
   margin-top: 6rem;

@@ -63,6 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
 </script>
 
 <style>
+
 .container{
   padding: 0 32px;
 }
@@ -70,8 +71,15 @@ document.addEventListener('DOMContentLoaded', () => {
   padding-left: 8px;
 }
 .visos{
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
+
+@media screen and (max-width: 568px) {
+.visos{
+  font-size: 1rem;
+}
+}
+
 .navbar-item{
   font-weight: 600;
   font-size: 1.3rem;

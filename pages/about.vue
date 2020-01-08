@@ -14,11 +14,8 @@
                     <div class="card-content">
                         <div class="media">
                             <div class="media-content has-text-centered">
-                                <p class="title article-title">Welcome!</p>
-                                <div class="container has-text-centered">
-                                    <h1 class="title ">Visos Beauty Salon</h1>
+                                    <h1 class="title "> Welcome to Visos Beauty Salon</h1>
                                     <h2 class="subtitle">15433A E. Hampden Av. Aurora, Co, 80013</h2>
-                                </div> 
                             </div>
                         </div>
                         <div class="content article-body">
@@ -111,9 +108,9 @@ div.column.is-8:first-child {
 .promo-block .container {
   margin: 1rem 5rem;
 }
-.title{
+/* .title{
   line-height: unset;
-}
+} */
 
 
 @media screen and (max-width: 768px) {
