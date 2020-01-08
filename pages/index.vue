@@ -3,13 +3,13 @@
     <section class="is-medium is-bold">
         <div class="hero-body">
             <div class="container has-text-centered white">
-                <h1 class="title title is-1 white">Visos Beauty Salon</h1>
+                <h1 class="title title is-1 white titulo-visos">Visos Beauty Salon</h1>
                 <h2 class="subtitle has-text-white">Hair cuts, color, wax & more </h2>
                 <!-- <h3>15433A E. Hampden Av. Aurora, Co, 80013</h3> -->
                     <div class="container has-text-centered">                                    
                       <h2 class=" has-text-white">303 693 3089</h2>
                       <h2 class="has-text-white">303 693 0422</h2>
-                      <h2 class="has-text-white">15433A E. Hampden Av. Aurora, Co, 80013</h2>
+                      <h2 class="has-text-white addr">15433A E. Hampden Av. Aurora, Co, 80013</h2>
                     </div>                 
             </div>
         </div>
@@ -142,6 +142,7 @@ html,body {
   font-size: 14px;
   background: #eee;
 }
+
 .navbar.is-white {
   background: #F0F2F4;
 }
@@ -246,6 +247,9 @@ input{
 }
 input{
   width: 60%;
+}
+.titulo-visos{
+  font-size: 2rem;
 }
 }
 

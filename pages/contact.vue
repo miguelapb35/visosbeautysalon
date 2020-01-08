@@ -19,7 +19,7 @@
                                 <div class="container has-text-centered">                                    
                                     <h2 class="subtitle">303 693 3089</h2>
                                     <h2 class="subtitle">303 693 0422</h2>
-                                    <h2 class="subtitle">15433A E. Hampden Av. Aurora, Co, 80013</h2>
+                                    <h2 class="subtitle last-subt">15433A E. Hampden Av. Aurora, Co, 80013</h2>
                                     <h1 class="title hast-text-centered">Hours of operation</h1>
                                 </div> 
                             </div>
@@ -166,5 +166,10 @@ div.column.is-8:first-child {
         height: auto;
         overflow: none;
     }
+}
+@media screen and (max-width: 500px) {
+.last-subt{
+  padding-bottom: 20px;
+}
 }
 </style>
