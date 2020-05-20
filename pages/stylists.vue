@@ -6,10 +6,10 @@
                 <h1 class="title title is-1 white">Visos Beauty Salon</h1>
                 <h2 class="subtitle has-text-white">Hair cuts, color, wax & more </h2>
                     <div class="container has-text-centered">                                    
-                        <h2 class=" has-text-white">303 693 3089</h2>
-                        <h2 class="has-text-white">303 693 0422</h2>
-                        <h2 class="has-text-white">15433A E. Hampden Av. Aurora, Co, 80013</h2>
-                    </div>   
+                        <h3>15433A E. Hampden Av. Aurora, Co, 80013</h3>
+                        <h2>open Monday - Saturday 10am - 6pm</h2>
+                        <h2>Make your Appointment: 303 693 3089, 303 693 0422</h2>
+                    </div> 
             </div>
         </div>
     </section>
